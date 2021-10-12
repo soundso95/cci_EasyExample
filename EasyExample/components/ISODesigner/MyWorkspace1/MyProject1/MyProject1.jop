@@ -525,10 +525,10 @@
 		<Object Class="CButton" Name="Button" ObjectName="Button_PlusPlus" Pinned="FALSE" JVS-ID="6000">
 			<PropertySheet Name="Button">
 				<Property Name="BackColor">
-					<Value>10079436</Value>
+					<Value>65535</Value>
 				</Property>
 				<Property Name="BorderColor">
-					<Value>6723993</Value>
+					<Value>26214</Value>
 				</Property>
 				<Property Name="KeyCode">
 					<Value>1</Value>
@@ -732,10 +732,10 @@
 		<Object Class="CButton" Name="Button" ObjectName="Button_MinusMinus" Pinned="FALSE" JVS-ID="6003">
 			<PropertySheet Name="Button">
 				<Property Name="BackColor">
-					<Value>10079436</Value>
+					<Value>52224</Value>
 				</Property>
 				<Property Name="BorderColor">
-					<Value>6723993</Value>
+					<Value>3342591</Value>
 				</Property>
 				<Property Name="KeyCode">
 					<Value>1</Value>
@@ -2934,6 +2934,74 @@
 				</Property>
 			</PropertySheet>
 		</Object>
+		<Object Class="CImage" Name="Image" ObjectName="IMG_1686_20004" Pinned="FALSE" JVS-ID="20004">
+			<PropertySheet Name="Image">
+				<Property Name="Path">
+					<Value>
+						<![CDATA[..\..\..\..\..\..\..\Users\Vogler\Pictures\Camera Roll\IMG_1686.JPG]]>
+					</Value>
+				</Property>
+				<Property Name="ResourceID">
+					<Value/>
+				</Property>
+				<Property Name="Retain Aspect Ratio">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Transparency">
+					<Value>0</Value>
+				</Property>
+				<Property Name="TransColor">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ControlType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="BitPerPixel">
+					<Value>8</Value>
+				</Property>
+				<Property Name="IsFlashing">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Encoding">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Extended">
+					<Value>0</Value>
+				</Property>
+				<Property Name="RealImageWidth">
+					<Value>84</Value>
+				</Property>
+				<Property Name="RealImageHeight">
+					<Value>56</Value>
+				</Property>
+				<Property Name="RotationAngle">
+					<Value>0.000000</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>84</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>56</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
 		<Object Class="CPointer" Name="Pointer" ObjectName="ObjectPointer_Null2" Pinned="FALSE" JVS-ID="27000">
 			<PropertySheet Name="Pointer">
 				<Property Name="Visible">
@@ -3131,6 +3199,39 @@
 			<Objects>
 				<Object JVS-ID="4194340"/>
 			</Objects>
+		</Object>
+		<Object Class="CExternalObjectDefinition" Name="" ObjectName="ExternalObjectDefinition_38000" Pinned="FALSE" JVS-ID="38000">
+			<PropertySheet Name="ExternalObjectDefinition">
+				<Property Name="Enable">
+					<Value>1</Value>
+				</Property>
+				<Property Name="ExternalWSName">
+					<Value>
+						<![CDATA[]]>
+					</Value>
+				</Property>
+				<Property Name="ObjectIDList">
+					<Value/>
+				</Property>
+				<Property Name="Width">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
 		</Object>
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194306">
 			<PropertySheet Name="Proxy">
