@@ -33,6 +33,7 @@
 #define OutputNumber_Tageszaehler         12000
 #define OutputNumber_Gesamtzaehler        12003
 #define Rectangle_Box                     14000
+#define Ellipse_15000                     15000
 #define Meter_Gesamtzaehler               17000
 #define Meter_Tageszaehler                17001
 #define LinearBargraph_Gesamtzaehler      18000

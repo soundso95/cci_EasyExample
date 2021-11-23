@@ -525,7 +525,7 @@
 		<Object Class="CButton" Name="Button" ObjectName="Button_PlusPlus" Pinned="FALSE" JVS-ID="6000">
 			<PropertySheet Name="Button">
 				<Property Name="BackColor">
-					<Value>65535</Value>
+					<Value>255</Value>
 				</Property>
 				<Property Name="BorderColor">
 					<Value>26214</Value>
@@ -732,10 +732,10 @@
 		<Object Class="CButton" Name="Button" ObjectName="Button_MinusMinus" Pinned="FALSE" JVS-ID="6003">
 			<PropertySheet Name="Button">
 				<Property Name="BackColor">
-					<Value>52224</Value>
+					<Value>3381504</Value>
 				</Property>
 				<Property Name="BorderColor">
-					<Value>3342591</Value>
+					<Value>3355443</Value>
 				</Property>
 				<Property Name="KeyCode">
 					<Value>1</Value>
@@ -2231,6 +2231,46 @@
 				<Object JVS-ID="24000"/>
 			</Objects>
 		</Object>
+		<Object Class="CEllipse" Name="Ellipse" ObjectName="Ellipse_15000" Pinned="FALSE" JVS-ID="15000">
+			<PropertySheet Name="Ellipse">
+				<Property Name="StartAngle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="EndAngle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Type">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>74</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>75</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25000"/>
+				<Object JVS-ID="24000"/>
+			</Objects>
+		</Object>
 		<Object Class="CMeter" Name="Meter" ObjectName="Meter_Gesamtzaehler" Pinned="FALSE" JVS-ID="17000">
 			<PropertySheet Name="Meter">
 				<Property Name="NeedleColor">
@@ -2802,7 +2842,7 @@
 			<PropertySheet Name="Image">
 				<Property Name="Path">
 					<Value>
-						<![CDATA[.\icon\IconMinusMinus.bmp]]>
+						<![CDATA[..\..\..\..\..\..\..\Users\Vogler\Pictures\Camera Roll\IMG_1686.JPG]]>
 					</Value>
 				</Property>
 				<Property Name="ResourceID">
@@ -2833,19 +2873,19 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="RealImageWidth">
-					<Value>72</Value>
+					<Value>64</Value>
 				</Property>
 				<Property Name="RealImageHeight">
-					<Value>72</Value>
+					<Value>64</Value>
 				</Property>
 				<Property Name="RotationAngle">
 					<Value>0.000000</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>72</Value>
+					<Value>64</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>72</Value>
+					<Value>64</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -3089,7 +3129,7 @@
 		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_PlusPlus" Pinned="TRUE" JVS-ID="29000">
 			<PropertySheet Name="AuxFunction">
 				<Property Name="BackColor">
-					<Value>10079436</Value>
+					<Value>3342591</Value>
 				</Property>
 				<Property Name="FunctionType">
 					<Value>0</Value>
@@ -3146,7 +3186,7 @@
 		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_MinusMinus" Pinned="TRUE" JVS-ID="29001">
 			<PropertySheet Name="AuxFunction">
 				<Property Name="BackColor">
-					<Value>10079436</Value>
+					<Value>204</Value>
 				</Property>
 				<Property Name="FunctionType">
 					<Value>0</Value>
